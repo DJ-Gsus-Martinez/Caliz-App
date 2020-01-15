@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliz.API", "Caliz\Caliz.API.csproj", "{F486AD3A-D1E4-4C52-A231-DBD6EA8ADF85}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliz.AndroidApp", "Caliz.AndroidApp\Caliz.AndroidApp.csproj", "{AFAD4BEE-BF39-4886-9F26-E3ACB1FEDC18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliz.API", "Caliz.API\Caliz.API.csproj", "{D6BF0A26-EB86-4409-ADC5-59B0579F12AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F486AD3A-D1E4-4C52-A231-DBD6EA8ADF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F486AD3A-D1E4-4C52-A231-DBD6EA8ADF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F486AD3A-D1E4-4C52-A231-DBD6EA8ADF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F486AD3A-D1E4-4C52-A231-DBD6EA8ADF85}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AFAD4BEE-BF39-4886-9F26-E3ACB1FEDC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AFAD4BEE-BF39-4886-9F26-E3ACB1FEDC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFAD4BEE-BF39-4886-9F26-E3ACB1FEDC18}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{AFAD4BEE-BF39-4886-9F26-E3ACB1FEDC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFAD4BEE-BF39-4886-9F26-E3ACB1FEDC18}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AFAD4BEE-BF39-4886-9F26-E3ACB1FEDC18}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D6BF0A26-EB86-4409-ADC5-59B0579F12AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BF0A26-EB86-4409-ADC5-59B0579F12AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BF0A26-EB86-4409-ADC5-59B0579F12AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BF0A26-EB86-4409-ADC5-59B0579F12AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
